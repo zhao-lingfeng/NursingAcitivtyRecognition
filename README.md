@@ -39,4 +39,5 @@ We combine pose estimation, machine learning, and large language models (LLMs) t
 - Python  
 - SMOTE 
 - Random Forest
-- HuggingFace Transformers (LLM prompting)  
+- HuggingFace Transformers (LLM prompting)
+- ......
